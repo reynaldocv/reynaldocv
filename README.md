@@ -6,6 +6,12 @@
   <tr>
     <td>
       
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reynaldocv&show_icons=true&locale=en&layout=compact" alt="reynaldocv" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reynaldocv&show_icons=true&locale=en" alt="reynaldocv" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldocv&" alt="reynaldocv" /></p>
+
   ![LeetCode Stats](https://leetcard.jacoblin.cool/reynaldocv?theme=forest&font=Noto%20Sans%20Georgian&ext=contest)
     </td>      
     </td>
