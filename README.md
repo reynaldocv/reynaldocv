@@ -6,8 +6,6 @@
       123
       
 ![LeetCode Stats](https://leetcard.jacoblin.cool/reynaldocv?theme=dark&font=Noto%20Sans%20Georgian&ext=contest)
-   
-
       </td>      
     </td>
     <td>324</td>    
