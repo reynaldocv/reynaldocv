@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Reynaldo Caceres Villena</h1>
 <h3 align="center">Ms. Degree in Computer Science at the University of Sao Paulo.</h3>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/reynaldocv?theme=dark&font=Noto%20Sans%20Georgian&ext=contest)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/reynaldo-cv-b8a17124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reynaldo-cv-b8a17124/" height="30" width="40" /></a>
