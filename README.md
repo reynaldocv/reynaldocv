@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Reynaldo Caceres Villena</h1>
 <h3 align="center">Ms. Degree in Computer Science at the University of Sao Paulo.</h3>
 
+<table border="0">
+  <tr>
+    <td>123</td>
+    <td>324</td>    
+  </tr>   
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
