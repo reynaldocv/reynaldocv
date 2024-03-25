@@ -5,12 +5,6 @@
 <table border="0">
   <tr>
     <td>
-      
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reynaldocv&show_icons=true&locale=en&layout=compact" alt="reynaldocv" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reynaldocv&show_icons=true&locale=en" alt="reynaldocv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reynaldocv&" alt="reynaldocv" /></p>
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/reynaldocv?theme=forest&font=Noto%20Sans%20Georgian&ext=contest)
     </td>      
@@ -59,6 +53,8 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> </a> 
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reynaldocv&show_icons=true&locale=en&layout=compact" alt="reynaldocv" /></p>
+
     </td>    
   </tr>   
 </table>
