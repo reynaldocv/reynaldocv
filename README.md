@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Reynaldo Caceres Villena</h1>
-<h3 align="center">Ms. Degree in Computer Science at the University of Sao Paulo.</h3>
 
 <table border="0">
   <tr>
     <td>
-      ![LeetCode Stats](https://leetcard.jacoblin.cool/reynaldocv?theme=dark&font=Noto%20Sans%20Georgian&ext=contest)
+      123
+      
+![LeetCode Stats](https://leetcard.jacoblin.cool/reynaldocv?theme=dark&font=Noto%20Sans%20Georgian&ext=contest)
+   
+
+      </td>      
     </td>
     <td>324</td>    
   </tr>   
