@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Reynaldo Caceres Villena</h1>
-
+<h1 align="center">Reynaldo Caceres Villena</h1>
+<p>- 📫 How to reach me **reynaldocv@gmail.com**</p>
 <table border="0">
   <tr>
     <td>
@@ -8,14 +8,7 @@
     </td>      
     </td>
     <td>
-      <h3 align="left">Connect with me:</h3>
-      <p>- 📫 How to reach me **reynaldocv@gmail.com**</p>
-<p align="left">
-<a href="https://linkedin.com/in/reynaldo-cv-b8a17124/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reynaldo-cv-b8a17124/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/reynaldocv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reynaldocv/" height="30" width="40" /></a>
-</p>    
-
-
+     
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
