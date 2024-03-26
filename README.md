@@ -11,6 +11,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
       <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a>
   </p>
+      
   ![LeetCode Stats](https://leetcard.jacoblin.cool/reynaldocv?theme=dark&font=Noto%20Sans%20Georgian&ext=contest)
     </td>      
     </td>
