@@ -1,7 +1,3 @@
-<h1 align="center">Reynaldo Caceres Villena</h1>
-
-- 📫 How to reach me **reynaldocv@gmail.com**
-
 <table border="0">
   <tr>
     <td>
